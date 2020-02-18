@@ -348,6 +348,9 @@ We strongly recommend that you use the latest version of .NET Framework that's s
 ## Supported clients
 
 Exchange 2013 supports the following versions of Outlook and Entourage for Mac:
+- Office 365 ProPlus
+
+- Outlook 2019
 
 - Outlook 2016
 
